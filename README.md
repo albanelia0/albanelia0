@@ -1,3 +1,5 @@
+<img width="150px" align="right" src="https://user-images.githubusercontent.com/38226124/109546000-e55ca000-7ac9-11eb-8af2-3f1196f74e33.PNG"/>
+
 ### Hi! 👩🏾‍💻🍿
 
 <!--
@@ -6,6 +8,5 @@
 
 I'm Alba Martes, I'm Fronted developer and I love all I can do programming.
 
-- 🌱 I’m currently learning React native, nextjs
+- 🌱 I’m keeping learning nextjs and react 💻 ⚛️
 - 📫 How to reach me: https://www.linkedin.com/in/alba-martes/
-
