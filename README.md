@@ -8,5 +8,5 @@
 
 I'm Alba Martes, I'm Fronted developer and I love all I can do programming.
 
-- 🌱 I’m keeping learning nextjs and react 💻 ⚛️
+- 🌱 I’m keeping learning typescript and react 💻 ⚛️
 - 📫 How to reach me: https://www.linkedin.com/in/alba-martes/
