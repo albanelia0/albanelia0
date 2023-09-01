@@ -7,6 +7,6 @@
 -->
 
 I'm Alba Martes, I'm Fronted developer and I love all I can do programming.
+![codeimage-snippet_1 (1)](https://github.com/albanelia0/albanelia0/assets/38226124/717d75a7-281e-443d-900e-278ec11ffdf0)
 
-- 🌱 I’m keeping learning typescript and react 💻 ⚛️
 - 📫 How to reach me: https://www.linkedin.com/in/alba-martes/
