@@ -4,7 +4,6 @@
 
 I'm Alba Martes, I'm Fronted developer and I love all I can do programming.
 
-![codeimage-snippet_1 (2)](https://github.com/albanelia0/albanelia0/assets/38226124/0684f0b9-3d7c-4cad-ab38-18e6d928d38d)
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/alba-martes/
