@@ -13,15 +13,15 @@ Here I will keep track of the workshops I complete.
 
 [x] React Fundamentals — *Completed on 10/20/2025* ([View Certificate](https://res.cloudinary.com/epic-web/image/upload/v1760971091/certificate/b1d67030-b10f-435d-ad8a-c32de47f4875/react-fundamentals.png))
 
+[x] React Hooks — *Completed on 10/29/2025* ([View Certificate](https://res.cloudinary.com/epic-web/image/upload/v1760971091/certificate/b1d67030-b10f-435d-ad8a-c32de47f4875/react-fundamentals.png](https://res.cloudinary.com/epic-web/image/upload/v1761752942/certificate/b1d67030-b10f-435d-ad8a-c32de47f4875/react-hooks.png))
+
 
 ### 🕓 In Progress
-- [ ] React Hooks
 - [ ] Advanced React APIs
 - [ ] React Suspense
 - [ ] Advanced React Patterns
 - [ ] React Performance
 - [ ] React Server Components
-- [ ] Bonus: Interviews with Experts
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/alba-martes/
