@@ -15,10 +15,12 @@ Here I will keep track of the workshops I complete.
 
 [x] React Hooks — *Completed on 10/29/2025* ([View Certificate](https://res.cloudinary.com/epic-web/image/upload/v1761752942/certificate/b1d67030-b10f-435d-ad8a-c32de47f4875/react-hooks.png))
 
+[x] Advanced React APIs — *Completed*
+
+[x] React Suspense — *Completed*
+
 
 ### 🕓 In Progress
-- [ ] Advanced React APIs
-- [ ] React Suspense
 - [ ] Advanced React Patterns
 - [ ] React Performance
 - [ ] React Server Components
